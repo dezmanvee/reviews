@@ -22,7 +22,7 @@ You can customize the reviews by modifying the reviews array in the JavaScript c
 - `name`: The name of the author of the review.
 - `job`: The job or title of the author.
 - `text`: The review text.
-Modify the `reviews` array according to your desired reviews. You can add more reviews or remove existing ones. Stick to the pattern of the reviews for the program to work.
+Modify the `reviews` array according to your desired reviews. You can add more reviews or remove existing ones.
 
 ## Dependencies
 This project does not have any external dependencies. It uses vanilla JavaScript to manipulate the DOM and handle the review data.
